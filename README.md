@@ -38,7 +38,7 @@ Ejecución
 
 Para correr el programa:
 
-python pso_drones.py
+Quiz_5.py
 
 
 Al ejecutar el código se mostrarán:
